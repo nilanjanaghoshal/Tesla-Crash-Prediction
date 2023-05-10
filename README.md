@@ -19,6 +19,10 @@ The confusion matrix of the Decision Tree and Random Forest classifiers are also
 
 Findings
 
+<p align="center">
+  <img src="tesla.png" height=300px>
+</p>
+
 Based on the analysis, the following findings can be made:
 
 1) The number of Tesla car crashes per month and per year has been increasing steadily since 2012, indicating a need for increased safety measures.
